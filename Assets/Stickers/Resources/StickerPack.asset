@@ -20,8 +20,8 @@ MonoBehaviour:
   Icons:
     appStore: {fileID: 2800000, guid: ee3168dddf17a584bb4c40664464d609, type: 3}
     Settings:
-      BackgroundColor: {r: 0.7141897, g: 0.6991782, b: 0.89705884, a: 1}
-      FillPercentage: 100
+      BackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+      FillPercentage: 90
       FilterMode: 2
       ScaleMode: 2
     Override: 0
